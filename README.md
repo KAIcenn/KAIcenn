@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Advicenna</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/mUTRVi8vK6i.gif">
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/pepe-code-pepe-computer-pepe-code-cyber-gif-10704277783559455484">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaicenn&label=Profile%20views&color=0e75b6&style=flat" alt="kaicenn" /> </p>
 
