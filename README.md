@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Advicenna</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1619935368&psig=AOvVaw2zJXxArMg-HNq4GW5GpWfE&ust=1697858194678000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD0r-bUg4IDFQAAAAAdAAAAABAZ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaicenn&label=Profile%20views&color=0e75b6&style=flat" alt="kaicenn" /> </p>
 
