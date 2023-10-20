@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Advicenna</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="">
-<div class="tenor-gif-embed" data-postid="10704277783559455484" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepe-code-pepe-computer-pepe-code-cyber-gif-10704277783559455484">Pepe Code Pepe Computer GIF</a>from <a href="https://tenor.com/search/pepe+code-gifs">Pepe Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="coding" width="400" src="https://tenor.com/mUTRVi8vK6i.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaicenn&label=Profile%20views&color=0e75b6&style=flat" alt="kaicenn" /> </p>
 
