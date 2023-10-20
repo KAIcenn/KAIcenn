@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Advicenna</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src"[![image](https://github.com/KAIcenn/KAIcenn/assets/144749494/1c4d78c7-dafe-4938-b202-0a6e13941b41)](https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-">
+<img align="right" alt="coding" width="400" src="https://tenor.com/mUTRVi8vK6i.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaicenn&label=Profile%20views&color=0e75b6&style=flat" alt="kaicenn" /> </p>
 
